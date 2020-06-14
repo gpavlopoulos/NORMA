@@ -17,6 +17,18 @@ Publication
 
 Has been submitted for publication
 
+How does it work?
+
+Please visit http://bib.fleming.gr:3838/NORMA/ to run it online or download the code and run it locally using Rstudio. 
+
+What is the input file format?
+
+Examples and instructions regarding the input files can be found in NORMA's Help/About pages (Tab Input File)
+
+Are there any datasets in order to try NORMA out?
+
+You can download various examples from NORMA's Help/About pages (Tab Examples)
+
 Who do I talk to?
 
 Please contact koutrouli@fleming.gr or pavlopoulos@fleming.gr
